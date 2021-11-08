@@ -16,7 +16,7 @@ Using the csv file election_data.csv, we needed to extract, calcuate, and print 
 
 Results
 
-![electionresults](Election_Analysis/Resources/election_results.csv)
+![electionresults](Election_Analysis/Resources/electionresults.png)
 
 Total Votes were based on total number of voters (unique ids)
 Votes per County were measured by using the county name, calulating the percentage of votes cast divided by total number of votes
