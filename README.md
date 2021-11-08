@@ -2,7 +2,9 @@
 VS Code with Python
 
 # Overview
-**Purpose
+
+**Purpose**
+
 For our script, we needed to be able to output the following 
 
 Total number of votes cast
@@ -11,7 +13,8 @@ Total number of votes each candidate received
 Percentage of votes each candidate won
 The winner of the election based on popular vote
 
-**Background
+**Background**
+
 Using the csv file election_data.csv, we needed to extract, calcuate, and print the election information.
 
 # Results
@@ -27,9 +30,11 @@ Winning candidate was supposed to be measured by assessing total number of votes
 
 # Summary
 
-**Challenges
+**Challenges**
+
 Regarding my irregular results, I found a small issue that I could not fix in time. I realized that the winners data was outputting the county votes data of denver and not the candidate results. Strict on time, I submitted what I had in advanced, but upon observation, realized my mistake. To correct the outcome, I would go through my code at the sections that address the variables of county vs candidate and determine where I may have entered the wrong variables. All in all, had I been more careful to take the time to enter my variables and used additional commentry, I believe I could have avoided this mistake. 
 
-**Conclusions
+**Conclusions**
+
 The true winner of the election was Diana DeGette.
 The script is capable of being applied to a larger election. It can be adjusted for use nation-wide because it is versitile enough to loop through any unique number of candidates and counties. We can simply adjust those variables to reflect per state or city.
